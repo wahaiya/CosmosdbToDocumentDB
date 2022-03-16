@@ -1,0 +1,70 @@
+{
+  "id": "emulator*2fconversations*2fdc79fad0-d847-11e9-9a9e-cf8cb8609417|livechat",
+  "realId": "emulator/conversations/dc79fad0-d847-11e9-9a9e-cf8cb8609417|livechat",
+  "document": {
+    "$type": "System.Collections.Concurrent.ConcurrentDictionary`2[[System.String, System.Private.CoreLib],[System.Object, System.Private.CoreLib]], System.Collections.Concurrent",
+    "VirtualAssistant": {
+      "$type": "Microsoft.Bot.Builder.Dialogs.DialogState, Microsoft.Bot.Builder.Dialogs",
+      "DialogStack": {
+        "$type": "System.Collections.Generic.List`1[[Microsoft.Bot.Builder.Dialogs.DialogInstance, Microsoft.Bot.Builder.Dialogs]], System.Private.CoreLib",
+        "$values": [
+          {
+            "$type": "Microsoft.Bot.Builder.Dialogs.DialogInstance, Microsoft.Bot.Builder.Dialogs",
+            "Id": "MainDialog",
+            "State": {
+              "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Object, System.Private.CoreLib]], System.Private.CoreLib",
+              "dialogs": {
+                "$type": "Microsoft.Bot.Builder.Dialogs.DialogState, Microsoft.Bot.Builder.Dialogs",
+                "DialogStack": {
+                  "$type": "System.Collections.Generic.List`1[[Microsoft.Bot.Builder.Dialogs.DialogInstance, Microsoft.Bot.Builder.Dialogs]], System.Private.CoreLib",
+                  "$values": []
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "_etag": "\"02009666-0000-2000-0000-5d7f25fa0000\"",
+  "_rid": "a4BVANckXhkBAAAAAAAAAA==",
+  "_self": "dbs/a4BVAA==/colls/a4BVANckXhk=/docs/a4BVANckXhkBAAAAAAAAAA==/",
+  "_attachments": "attachments/",
+  "_ts": 1568613882
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

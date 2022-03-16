@@ -1,0 +1,8 @@
+
+  <add key="EndpointUri" value="https://saic-share-cosmos-sit.documents.azure.com:443/" />
+    <add key="PrimaryKey" value="2iwyJu4isCZmk147JOKbVJPRwZJC1AUk9NWTxiWHKBUTzNHuY5brJTErq5BJf9dZwE8wd5NOfDSECjy9bttZyA==" />
+
+
+
+<add key="EndpointUri" value="https://azureadmin.documents.azure.com:443/" />
+    <add key="PrimaryKey" value="7N2QbaoBtgYdns0jkx1Hub3qSahPHShvAIjvG5upzlMG6qBKsqAAR2sb8gKZG2b1YEXCHm5wKpScTJqitS1lww==" />
