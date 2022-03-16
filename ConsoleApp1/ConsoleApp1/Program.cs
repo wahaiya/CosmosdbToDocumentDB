@@ -42,8 +42,8 @@ namespace CSharpSample
        // private string containerId = "saic-va-con-sit";
 
         public string template = "mongodb://{0}:{1}@{2}/test?replicaSet=rs0&readpreference={3}";
-        private string username = "oceanadmin";
-        private string password = "Password01!";
+        private string username = "admin";
+        private string password = "Password*******";
         private string clusterEndpoint = "ocean-documentdb-test.c22b6nswwl7n.us-west-2.docdb.amazonaws.com:27017";
         private string readPreference = "secondaryPreferred";
         private string DocumentDBconnectionString = "";
